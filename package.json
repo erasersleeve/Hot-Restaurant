@@ -1,0 +1,23 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "Table bookings",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erasersleeve/Hot-Restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erasersleeve/Hot-Restaurant/issues"
+  },
+  "homepage": "https://github.com/erasersleeve/Hot-Restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
